@@ -8,7 +8,7 @@ The prediction helps businesses understand customer intent and improve decision-
 ---
 
 ## 🎯 Problem Statement
-You are hired as a data scientist to build a predictive model that can determine whether a visitor is likely to make a purchase based on their session behavior.
+You are hired as a ML engineer to build a predictive model that can determine whether a visitor is likely to make a purchase based on their session behavior.
 
 ---
 
